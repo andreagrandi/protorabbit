@@ -1,0 +1,6 @@
+package org.it.andreagrandi.protorabbit.user;
+
+message User {
+  required string firstName = 1;
+  required string lastName = 2;
+}
